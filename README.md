@@ -95,7 +95,3 @@ To assess and optimize digital marketing efforts by evaluating user engagement a
 
 This project demonstrates how understanding user behavior at a granular level enables data-driven decisions. From peak engagement times to traffic source quality, these insights are vital to shaping effective digital strategies.
 
----
-
-## 📂 Repository Structure
-
