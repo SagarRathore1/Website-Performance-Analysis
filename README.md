@@ -20,35 +20,41 @@ To assess and optimize digital marketing efforts by evaluating user engagement a
 ### 🔹 Q1: Which channel drives the most traffic?
 **Insight:** Organic Social drives the most sessions, followed by Referral and Direct traffic.
 
-![Sessions by Channel Group](images/q1.png)
+![def16b2e-d819-4ff6-b84a-c38fb257e951](https://github.com/user-attachments/assets/a9adee18-0fc0-4565-b4cb-3d98014b53a7)
+
 
 ---
 
 ### 🔹 Q2: Which channel has the lowest traffic?
 **Insight:** Organic Video and Unassigned channels contribute negligible sessions.
 
-![Sessions by Channel Group](images/q2.png)
+![4bb3a358-1abf-4be2-851a-cd2852559399](https://github.com/user-attachments/assets/682bd67f-9aa3-41ef-8ffe-884c40ea7b05)
+
+
 
 ---
 
 ### 🔹 Q3: Which channel has the highest average engagement time?
 **Insight:** Organic Video shows the highest average engagement time, indicating highly engaging content.
 
-![Avg Engagement Time by Channel Group](images/q3.png)
+![4ea6235f-8775-4d48-a4f7-27a815ec0eab](https://github.com/user-attachments/assets/f8bbe07d-4d40-4a62-90a2-c1a0c7084310)
+
 
 ---
 
 ### 🔹 Q4: How does engagement rate vary across channels?
 **Insight:** Referral and Organic Search exhibit the highest median engagement rates.
 
-![Engagement Rate by Channel Group](images/q4.png)
+![a1b742fd-5a51-41c2-9bf1-abb833793aa0](https://github.com/user-attachments/assets/28ab14b7-f42b-456c-a1d1-49834ee01daf)
+
 
 ---
 
 ### 🔹 Q5: Which channels drive more engaged sessions?
 **Insight:** Organic Social, Referral, and Organic Search generate more engaged than non-engaged sessions.
+![55fea7f9-ce20-4b72-8128-b434e9199be7](https://github.com/user-attachments/assets/6a35c523-6b7f-42b9-b95e-941be147c009)
 
-![Engaged vs Non-Engaged Sessions](images/q5.png)
+
 
 **Strategy for Improvement:**
 - Enhance targeting in Email and Direct campaigns.
@@ -59,7 +65,8 @@ To assess and optimize digital marketing efforts by evaluating user engagement a
 ### 🔹 Q6: When does each channel drive the most traffic?
 **Insight:** Most traffic occurs between **12 PM to 10 PM**, especially from Organic Social.
 
-![Heatmap of Sessions by Hour and Channel Group](images/q6.png)
+![2ffa9053-2e1a-44e2-a60d-f4a00a63fe1e](https://github.com/user-attachments/assets/4c2f354c-e414-4ef4-bc58-dfeef7193483)
+
 
 **Tip:** Schedule marketing campaigns around these hours for maximum reach.
 
@@ -68,7 +75,10 @@ To assess and optimize digital marketing efforts by evaluating user engagement a
 ### 🔹 Q7: Is there a correlation between traffic volume and engagement rate?
 **Insight:** There is no strong correlation—high traffic doesn't necessarily result in high engagement.
 
-![Engagement Rate and Sessions Over Time](images/q7.png)
+![3db00437-1ef7-4985-909d-f308031e37be](https://github.com/user-attachments/assets/e89c30dc-1d4f-4d78-b7be-a496d5feb75f)
+
+
+
 
 ---
 
